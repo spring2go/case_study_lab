@@ -15,8 +15,7 @@
 # 实验目录
 1. [lab01](lab01)~开发环境搭建
 2. [lab02](lab02)~Apollo配置中心集成
-3. [lab03](lab03)~Zuul/Eureka/Ribbon/Hystrix集成
-4. [lab04](lab04)~Gravitee OAuth2集成
+4. [lab03](lab04)~Gravitee OAuth2集成
 5. [lab05](lab05)~Zuul网关集中令牌校验
 6. [lab06](lab06)~CAT调用链监控集成
 

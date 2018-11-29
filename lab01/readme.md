@@ -77,7 +77,7 @@ security:
 
 ## 三、导入种子账户数据
 
-通过Robo 3T连接到数据库piggymetrics_account_db，在数据库连接图标上鼠标右击选`Open Shell`，打开操作窗口，导入种子账户数据:
+通过Robo 3T连接到数据库piggymetrics_account_db，在数据库连接图标上鼠标右击选`Open Shell`，打开操作窗口，导入[seed](https://github.com/spring2go/piggymetrics/tree/master/mongodb)中的种子账户数据:
 
 ```javascript
 
