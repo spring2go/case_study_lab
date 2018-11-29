@@ -1,6 +1,5 @@
 # Gravitee OAuth2集成
 
-
 ## 一、先决条件
 
 完成[gravitee_lab](https://github.com/spring2go/gravitee_lab)的**lab01**和**lab02**，确保mysql数据库中有如下表格和种子数据：
@@ -29,9 +28,16 @@ serverport: 5000
 
 ```
 
+## 三、项目配置review
+
+在Apollo配置界面上，依次review下列项目的配置，确保oauth2服务器相关配置正确。
+
+* account-service
+* gateway
+
 ## 参考
 
-https://github.com/spring2go/gravitee_lab
+[本课程gravitee oauth2服务器实验](https://github.com/spring2go/gravitee_lab)
 
 
 
