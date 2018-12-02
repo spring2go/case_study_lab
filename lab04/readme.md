@@ -62,12 +62,13 @@ http://localhost:8081/cat
 
 ## 二、项目配置
 
-在如下四个项目中配置相应的CAT项目名
+在如下五个项目中配置相应的CAT项目名
 
 * account-service
 * notification-service
 * statistics-service
 * gateway
+* registry
 
 ```
 src/main/resources/META-INF/app.properties
