@@ -32,7 +32,7 @@
 
 ## 三、项目配置review
 
-依次review上面四个项目中的`application.propreties`文件，确保apollo配置正确。
+依次review上面五个项目中的`application.propreties`文件，确保apollo配置正确。
 
 
 ## 参考
