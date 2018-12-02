@@ -24,6 +24,7 @@
 
 依次创建如下项目，并导入[config](https://github.com/spring2go/piggymetrics/tree/master/config)中对应的配置文件
 
+* registry
 * account-service
 * statistics-service
 * notification-service
