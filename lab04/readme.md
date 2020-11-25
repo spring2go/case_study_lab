@@ -2,7 +2,7 @@
 
 ## 一、CAT3.0本地部署
 
-参考点评官方[CAT服务器部署指南](https://github.com/dianping/cat/blob/master/cat-doc/posts/ch4-server/README.md)，使用源码构建部署包，并部署到本地Tomcat。
+参考点评官方[CAT服务器部署指南](https://github.com/dianping/cat/wiki/readme_server)，使用源码构建部署包，并部署到本地Tomcat。
 
 配置文件示例：
 
